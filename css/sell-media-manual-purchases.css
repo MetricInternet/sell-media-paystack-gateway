@@ -1,0 +1,19 @@
+.sell-media-manual-purchase-meta{
+	display: none;
+}
+
+.sell-media-manual-purchase-meta .sell-media-manual-purchase-label{
+	display: inline-block;
+	display: block;
+    width: 51%;
+    float: right;
+    margin-top:10px;
+}
+
+.sell-media-manual-purchase-meta {
+	margin-bottom: 10px; 
+}
+
+.sell-media-manual-purchase-label input{
+	margin-top: 5px;
+}
